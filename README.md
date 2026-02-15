@@ -40,7 +40,3 @@ Currently leveling up in:
 - LLM applications
 
 ---
-
-## 📫 Connect With Me
-LinkedIn: (add link)
-Email: (professional email)
